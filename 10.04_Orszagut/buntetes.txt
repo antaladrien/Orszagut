@@ -1,0 +1,4 @@
+Robogo: "" - 40 km/h haladhat
+AudiS8: AAA-111 - 200 km/h nem hajtott gyorsan
+Robogo: "" - 80 km/h haladhat
+AudiS8: AAA-111 - 130 km/h gyorshajtott
